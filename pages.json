@@ -1,0 +1,1238 @@
+{
+	"/": {
+		"path": "/", 
+		"vars": {
+			"title": "TechnicalSEO.com | Info, Examples & Tools",
+			"description": "Brought to you by Merkle, a set of technical SEO topics with examples and tools, to help you make your website technically search engine friendly.",
+			"canonical": "https://technicalseo.com/",
+			"robots": "index,follow",
+			"templateUrl": "resources/home.html",
+			"amphtml": "https://technicalseo.com/amp.html",
+			"breadcrumbs": ""
+		}
+	},
+			"/crawl-indexation/website-configuration/urls/migration/": {
+				"path": "/crawl-indexation/website-configuration/urls/migration/", 
+				"vars": {
+					"title": " | TechnicalSEO.com",
+					"description": "",
+					"canonical": "https://technicalseo.com/crawl-indexation/website-configuration/urls/migration/",
+					"robots": "index,follow",
+					"templateUrl": "crawl-indexation/website-configuration/urls/migration/migration.php",
+					"amphtml": "https://technicalseo.com/crawl-indexation/website-configuration/urls/migration/amp.html",
+					"breadcrumbs": {
+						"@context": "http://schema.org",
+						"@type": "BreadcrumbList",
+						"itemListElement": [
+							{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+							{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+							{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/website-configuration/","name": "Website Configuration"}},
+							{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/crawl-indexation/website-configuration/urls/","name": "URLs"}}
+						]
+					}
+				}
+			},
+			"/product": {
+				"path": "/crawl-indexation/website-configuration/mobile-site/accelerated-mobile-pages/", 
+				"vars": {
+					"title": " | TechnicalSEO.com",
+					"description": "",
+					"canonical": "https://technicalseo.com/crawl-indexation/website-configuration/mobile-site/accelerated-mobile-pages/",
+					"robots": "index,follow",
+					"templateUrl": "crawl-indexation/website-configuration/mobile-site/accelerated-mobile-pages/accelerated-mobile-pages.php",
+					"amphtml": "https://technicalseo.com/crawl-indexation/website-configuration/mobile-site/accelerated-mobile-pages/amp.html",
+					"breadcrumbs": {
+						"@context": "http://schema.org",
+						"@type": "BreadcrumbList",
+						"itemListElement": [
+							{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+							{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+							{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/website-configuration/","name": "Website Configuration"}},
+							{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/crawl-indexation/website-configuration/urls/","name": "URLs"}}
+						]
+					}
+				}
+			},
+			"/products/sale": {
+				"path": "/crawl-indexation/website-configuration/mobile-site/progressive-web-apps/", 
+				"vars": {
+					"title": " | TechnicalSEO.com",
+					"description": "",
+					"canonical": "https://technicalseo.com/crawl-indexation/website-configuration/mobile-site/progressive-web-apps/",
+					"robots": "index,follow",
+					"templateUrl": "crawl-indexation/website-configuration/mobile-site/progressive-web-apps/progressive-web-apps.php",
+					"amphtml": "https://technicalseo.com/crawl-indexation/website-configuration/mobile-site/progressive-web-apps/amp.html",
+					"breadcrumbs": {
+						"@context": "http://schema.org",
+						"@type": "BreadcrumbList",
+						"itemListElement": [
+							{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+							{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+							{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/website-configuration/","name": "Website Configuration"}},
+							{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/crawl-indexation/website-configuration/urls/","name": "URLs"}}
+						]
+					}
+				}
+			},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"/product": {
+		"path": "/product", 
+		"vars": {
+			"title": "Sitemap | TechnicalSEO.com",
+			"description": "Looking for something on technicalseo.com? Here is the HTML Sitemap to help you navigate through the site.",
+			"canonical": "https://technicalseo.com/sitemap/",
+			"robots": "index,follow",
+			"templateUrl": "sitemap/sitemap.php",
+			"breadcrumbs": {
+				"@context": "http://schema.org",
+				"@type": "BreadcrumbList",
+				"itemListElement": [
+					{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+					{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/sitemap/","name": "Sitemap"}}
+				]
+			}
+		}
+	},	
+	"/product/bonus-offer": {
+		"path": "/product/bonus-offer", 
+		"vars": {
+			"title": "Search Results | TechnicalSEO.com",
+			"description": "",
+			"canonical": "",
+			"robots": "noindex,nofollow",
+			"templateUrl": "search/search.php",
+			"breadcrumbs": ""
+		}
+	},
+	"/product/clearance": {
+		"path": "/product/clearance", 
+		"vars": {
+			"title": "SEO Tools | TechnicalSEO.com",
+			"description": "From a list of SEO online resources to a set of handy tools that we developed, this section gives you all you need to optimize your website. Check it out!",
+			"canonical": "https://technicalseo.com/seo-tools/",
+			"robots": "index,follow",
+			"templateUrl": "seo-tools/seo-tools.php",
+			"amphtml": "https://technicalseo.com/seo-tools/amp.html",
+			"breadcrumbs": {
+				"@context": "http://schema.org",
+				"@type": "BreadcrumbList",
+				"itemListElement": [
+					{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+					{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/seo-tools/","name": "SEO Tools"}}
+				]
+			}
+		}
+	},
+		"/product/clearance/sale": {
+			"path": "/seo-tools/online-resources/", 
+			"vars": {
+				"title": "Online Resources | TechnicalSEO.com",
+				"description": "Don't know where to start? Well, you're in the right place but here is a list of additional blogs, forums and online tools to help you learn technical SEO.",
+				"canonical": "https://technicalseo.com/seo-tools/online-resources/",
+				"robots": "index,follow",
+				"templateUrl": "seo-tools/online-resources/online-resources.php",
+				"amphtml": "https://technicalseo.com/seo-tools/online-resources/amp.html",
+				"breadcrumbs": {
+					"@context": "http://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+						{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/seo-tools/","name": "SEO Tools"}},
+						{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/seo-tools/online-resources/","name": "Online Resources"}}
+					]
+				}
+			}
+		},
+		"/product/clearance/sale": {
+			"path": "/seo-tools/submit-xml-sitemap/", 
+			"vars": {
+				"title": "Submit an XML Sitemap ('Ping') | TechnicalSEO.com",
+				"description": "Simple online tool to 'Ping' search engines (Google and Bing) for updated XML Sitemaps using a simple HTTP request.",
+				"canonical": "https://technicalseo.com/seo-tools/submit-xml-sitemap/",
+				"robots": "index,follow",
+				"templateUrl": "seo-tools/submit-xml-sitemap/submit-xml-sitemap.php",
+				"breadcrumbs": {
+					"@context": "http://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+						{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/seo-tools/","name": "SEO Tools"}},
+						{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/seo-tools/submit-xml-sitemap/","name": "Submit an XML Sitemap"}}
+					]
+				}
+			}
+		},
+			"/webmaster": {
+				"path": "/webmaster", 
+				"vars": {
+					"redirectTo": "function(){window.location = 'http://www.bing.com/webmaster';}",
+					"robots": "noindex,nofollow"
+				}
+			},
+		"/products/bonus-offer/clearance/sale": {
+			"path": "/products/bonus-offer/clearance/sale", 
+			"vars": {
+				"title": "Get the cached page of any URL | TechnicalSEO.com",
+				"description": "Simple online tool to get cached pages. A cached page is a version of a web page saved at a specific time by a web crawler (mainly search engines).",
+				"canonical": "https://technicalseo.com/seo-tools/cached-page/",
+				"robots": "index,follow",
+				"templateUrl": "seo-tools/cached-page/cached-page.php",
+				"breadcrumbs": {
+					"@context": "http://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+						{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/seo-tools/","name": "SEO Tools"}},
+						{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/seo-tools/cached-page/","name": "Get a Cached Page"}}
+					]
+				}
+			}
+		},
+		"/products/clearance/sale": {
+			"path": "/products/clearance/sale", 
+			"vars": {
+				"title": "Google SERP Simulator | TechnicalSEO.com",
+				"description": "This simple and handy SEO tool provides a Google snippet preview to check how title tags and meta descriptions are displayed in search results.",
+				"canonical": "https://technicalseo.com/seo-tools/google-serp-simulator/",
+				"robots": "index,follow",
+				"templateUrl": "seo-tools/google-serp-simulator/google-serp-simulator.php",
+				"breadcrumbs": {
+					"@context": "http://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+						{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/seo-tools/","name": "SEO Tools"}},
+						{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/seo-tools/google-serp-simulator/","name": "Google SERP Simulator"}}
+					]
+				}
+			}
+		},
+		"/seo-tools/locale-adaptive/": {
+			"path": "/seo-tools/locale-adaptive/", 
+			"vars": {
+				"title": "Locale-Adaptive Testing Tool | TechnicalSEO.com",
+				"description": "As Google can now crawl and index locale-adaptive pages, you can use this tool to check the content of a URL for up to 13 languages.",
+				"canonical": "https://technicalseo.com/seo-tools/locale-adaptive/",
+				"robots": "index,follow",
+				"templateUrl": "seo-tools/locale-adaptive/locale-adaptive.php",
+				"breadcrumbs": {
+					"@context": "http://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+						{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/seo-tools/","name": "SEO Tools"}},
+						{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/seo-tools/locale-adaptive/","name": "Locale-Adaptive Testing Tool"}}
+					]
+				}
+			}
+		},
+		"/seo-tools/hreflang/": {
+			"path": "/seo-tools/hreflang/", 
+			"vars": {
+				"title": "hreflang Tags Testing Tool | TechnicalSEO.com",
+				"description": "hreflang annotations can be hard to implement properly. This tool allows you to quickly check if hreflang tags for a page (HTML and HTTP headers), and/or in an XML Sitemap, are correct.",
+				"canonical": "https://technicalseo.com/seo-tools/hreflang/",
+				"robots": "index,follow",
+				"templateUrl": "seo-tools/hreflang/hreflang.php",
+				"breadcrumbs": {
+					"@context": "http://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+						{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/seo-tools/","name": "SEO Tools"}},
+						{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/seo-tools/hreflang/","name": "hreflang Tags Testing Tool"}}
+					]
+				}
+			}
+		},
+		"/seo-tools/html-snapshot/": {
+			"path": "/seo-tools/html-snapshot/", 
+			"vars": {
+				"title": "HTML Snapshot Tool | TechnicalSEO.com",
+				"description": "This tool checks if HTML snapshots are directly served to specific User-Agents without them requesting the snapshots via escaped_fragment URLs.",
+				"canonical": "https://technicalseo.com/seo-tools/html-snapshot/",
+				"robots": "index,follow",
+				"templateUrl": "seo-tools/html-snapshot/html-snapshot.php",
+				"breadcrumbs": {
+					"@context": "http://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+						{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/seo-tools/","name": "SEO Tools"}},
+						{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/seo-tools/html-snapshot/","name": "HTML Snapshot Tool"}}
+					]
+				}
+			}
+		},
+		"/seo-tools/robots-txt/": {
+			"path": "/seo-tools/robots-txt/", 
+			"vars": {
+				"title": "robots.txt Testing Tool | TechnicalSEO.com",
+				"description": "Test your robots.txt with this testing tool. Check if a URL is blocked, which statement is blocking it and for which user agent. You can also check if the resources for the page (CSS and JavaScript) are disallowed!",
+				"canonical": "https://technicalseo.com/seo-tools/robots-txt/",
+				"robots": "index,follow",
+				"templateUrl": "seo-tools/robots-txt/robots-txt.php",
+				"breadcrumbs": {
+					"@context": "http://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+						{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/seo-tools/","name": "SEO Tools"}},
+						{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/seo-tools/robots-txt/","name": "robots.txt Testing Tool"}}
+					]
+				}
+			}
+		},
+		"/seo-tools/amp/": {
+			"path": "/seo-tools/amp/", 
+			"vars": {
+				"title": "Accelerated Mobile Pages (AMP) Validator | TechnicalSEO.com",
+				"description": "Use this tool to check if one or more URLs are valid Accelerated Mobile Pages (AMP) or not. This testing tool is using the official AMP project validator included in the AMP JS library.",
+				"canonical": "https://technicalseo.com/seo-tools/amp/",
+				"robots": "index,follow",
+				"templateUrl": "seo-tools/amp/amp.php",
+				"breadcrumbs": {
+					"@context": "http://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+						{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/seo-tools/","name": "SEO Tools"}},
+						{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/seo-tools/amp/","name": "AMP Validator"}}
+					]
+				}
+			}
+		},
+		"/seo-tools/rel-prev-next/": {
+			"path": "/seo-tools/rel-prev-next/", 
+			"vars": {
+				"title": "Pagination (rel='prev/next') Testing Tool | TechnicalSEO.com",
+				"description": "This tool allows you to quickly check if rel=prev and rel=next tags are correctly implemented on a paginated series.",
+				"canonical": "https://technicalseo.com/seo-tools/rel-prev-next/",
+				"robots": "index,follow",
+				"templateUrl": "seo-tools/rel-prev-next/rel-prev-next.php",
+				"breadcrumbs": {
+					"@context": "http://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+						{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/seo-tools/","name": "SEO Tools"}},
+						{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/seo-tools/rel-prev-next/","name": "Pagination Testing Tool"}}
+					]
+				}
+			}
+		},
+		"/seo-tools/local-search/": {
+			"path": "/seo-tools/local-search/", 
+			"vars": {
+				"title": "Google Local Search Results Tool | TechnicalSEO.com",
+				"description": "This tool allows you to check Google local search results via location spoofing.",
+				"canonical": "https://technicalseo.com/seo-tools/local-search/",
+				"robots": "index,follow",
+				"templateUrl": "seo-tools/local-search/local-search.php",
+				"breadcrumbs": {
+					"@context": "http://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+						{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/seo-tools/","name": "SEO Tools"}},
+						{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/seo-tools/local-search/","name": "Local Search Tool"}}
+					]
+				}
+			}
+		},
+		"/seo-tools/xml-sitemap/": {
+			"path": "/seo-tools/xml-sitemap/", 
+			"vars": {
+				"title": "XML Sitemap Generator | TechnicalSEO.com",
+				"description": "Quickly and easily generate an XML Sitemap with alternate (media and/or hreflang) tags from an Excel (.csv) document.",
+				"canonical": "https://technicalseo.com/seo-tools/xml-sitemap/",
+				"robots": "index,follow",
+				"templateUrl": "seo-tools/xml-sitemap/xml-sitemap.php",
+				"breadcrumbs": {
+					"@context": "http://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+						{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/seo-tools/","name": "SEO Tools"}},
+						{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/seo-tools/xml-sitemap/","name": "XML Sitemap Generator"}}
+					]
+				}
+			}
+		},
+		"/seo-tools/mobile-friendly/": {
+			"path": "/seo-tools/mobile-friendly/", 
+			"vars": {
+				"title": "Mobile-Friendly Bulk Testing Tool | TechnicalSEO.com",
+				"description": "Using Google's API, quickly check if your pages are mobile-friendly.",
+				"canonical": "https://technicalseo.com/seo-tools/mobile-friendly/",
+				"robots": "index,follow",
+				"templateUrl": "seo-tools/mobile-friendly/mobile-friendly.php",
+				"breadcrumbs": {
+					"@context": "http://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+						{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/seo-tools/","name": "SEO Tools"}},
+						{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/seo-tools/mobile-friendly/","name": "Mobile-Friendly Tool"}}
+					]
+				}
+			}
+		},
+		"/seo-tools/fetch-render/": {
+			"path": "/seo-tools/fetch-render/", 
+			"vars": {
+				"title": "Fetch & Render As Any Bot | TechnicalSEO.com",
+				"description": "SEO tool to fetch and render a webpage as any bot. Get the source code, an HTML snapshot, a screenshot and check if resources are blocked from crawling.",
+				"canonical": "https://technicalseo.com/seo-tools/fetch-render/",
+				"robots": "index,follow",
+				"templateUrl": "seo-tools/fetch-render/fetch-render.php",
+				"breadcrumbs": {
+					"@context": "http://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+						{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/seo-tools/","name": "SEO Tools"}},
+						{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/seo-tools/fetch-render/","name": "Fetch & Render Tool"}}
+					]
+				}
+			}
+		},		
+	"/what-is-seo/": {
+		"path": "/what-is-seo/", 
+		"vars": {
+			"title": "What is Search Engine Optimization? | TechnicalSEO.com",
+			"description": "Search Engine Optimization (SEO) is the process of understanding searcher behavior and audiences, and optimizing web content to deliver a relevant experience.",
+			"canonical": "https://technicalseo.com/what-is-seo/",
+			"robots": "index,follow",
+			"templateUrl": "what-is-seo/what-is-seo.php",
+			"amphtml": "https://technicalseo.com/what-is-seo/amp.html",
+			"breadcrumbs": {
+				"@context": "http://schema.org",
+				"@type": "BreadcrumbList",
+				"itemListElement": [
+					{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+					{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/what-is-seo/","name": "What is SEO?"}}
+				]
+			}
+		}
+	},		
+	"/about/": {
+		"path": "/about/", 
+		"vars": {
+			"title": "About | TechnicalSEO.com",
+			"description": "TechnicalSEO.com was created and is developed, published and maintained by the technical SEO team at Merkle.",
+			"canonical": "https://technicalseo.com/about/",
+			"robots": "index,follow",
+			"templateUrl": "about/about.php",
+			"amphtml": "https://technicalseo.com/about/amp.html",
+			"breadcrumbs": {
+				"@context": "http://schema.org",
+				"@type": "BreadcrumbList",
+				"itemListElement": [
+					{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+					{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/about/","name": "About"}}
+				]
+			}
+		}
+	},
+	"/crawl-indexation/": {
+		"path": "/crawl-indexation/", 
+		"vars": {
+			"title": "Crawl & Indexation | TechnicalSEO.com",
+			"description": "",
+			"canonical": "https://technicalseo.com/crawl-indexation/",
+			"robots": "index,follow",
+			"templateUrl": "crawl-indexation/crawl-indexation.php",
+			"amphtml": "https://technicalseo.com/crawl-indexation/amp.html",
+			"breadcrumbs": {
+				"@context": "http://schema.org",
+				"@type": "BreadcrumbList",
+				"itemListElement": [
+					{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+					{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}}
+				]
+			}
+		}
+	},
+		"/crawl-indexation/directives/": {
+			"path": "/crawl-indexation/directives/", 
+			"vars": {
+				"title": "Directives | TechnicalSEO.com",
+				"description": "Learn more about directives that can be sent to search engines to tell them what pages they are allowed to crawl on a website and/or add to a their index.",
+				"canonical": "https://technicalseo.com/crawl-indexation/directives/",
+				"robots": "index,follow",
+				"templateUrl": "crawl-indexation/directives/directives.php",
+				"amphtml": "https://technicalseo.com/crawl-indexation/directives/amp.html",
+				"breadcrumbs": {
+					"@context": "http://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+						{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+						{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/directives/","name": "Directives"}}
+					]
+				}
+			}
+		},
+			"/crawl-indexation/directives/http-status-codes/": {
+				"path": "/crawl-indexation/directives/http-status-codes/", 
+				"vars": {
+					"title": "HTTP Status Codes | TechnicalSEO.com",
+					"description": "When a request is made to a server for a page on a website, the server returns an HTTP status code in response to the request: 200 OK, 404 Not Found, etc.",
+					"canonical": "https://technicalseo.com/crawl-indexation/directives/http-status-codes/",
+					"robots": "index,follow",
+					"templateUrl": "crawl-indexation/directives/http-status-codes/http-status-codes.php",
+					"amphtml": "https://technicalseo.com/crawl-indexation/directives/http-status-codes/amp.html",
+					"breadcrumbs": {
+						"@context": "http://schema.org",
+						"@type": "BreadcrumbList",
+						"itemListElement": [
+							{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+							{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+							{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/directives/","name": "Directives"}},
+							{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/crawl-indexation/directives/http-status-codes/","name": "HTTP Status Codes"}}
+						]
+					}
+				}
+			},
+				"/crawl-indexation/directives/http-status-codes/404/": {
+					"path": "/crawl-indexation/directives/http-status-codes/404/", 
+					"vars": {
+						"title": "HTTP Status Codes: 404 | TechnicalSEO.com",
+						"description": "Well optimized with appropriate internal linking and messaging, custom 404 pages can reduce bounce rate and help users navigate to useful pages on the site.",
+						"canonical": "https://technicalseo.com/crawl-indexation/directives/http-status-codes/404/",
+						"robots": "index,follow",
+						"templateUrl": "crawl-indexation/directives/http-status-codes/404/404.php",
+						"amphtml": "https://technicalseo.com/crawl-indexation/directives/http-status-codes/404/amp.html",
+						"breadcrumbs": {
+							"@context": "http://schema.org",
+							"@type": "BreadcrumbList",
+							"itemListElement": [
+								{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+								{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+								{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/directives/","name": "Directives"}},
+								{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/crawl-indexation/directives/http-status-codes/","name": "HTTP Status Codes"}},
+								{"@type": "ListItem","position": 5,"item": {"@id": "https://technicalseo.com/crawl-indexation/directives/http-status-codes/404/","name": "404"}}
+							]
+						}
+					}
+				},
+			"/crawl-indexation/directives/robots-txt/": {
+				"path": "/crawl-indexation/directives/robots-txt/", 
+				"vars": {
+					"title": "Robots.txt | TechnicalSEO.com",
+					"description": "The robots.txt file, while not required, helps you guide how search engines crawl your site and can be an integral part of your SEO strategy",
+					"canonical": "https://technicalseo.com/crawl-indexation/directives/robots-txt/",
+					"robots": "index,follow",
+					"templateUrl": "crawl-indexation/directives/robots-txt/robots-txt.php",
+					"amphtml": "https://technicalseo.com/crawl-indexation/directives/robots-txt/amp.html",
+					"breadcrumbs": {
+						"@context": "http://schema.org",
+						"@type": "BreadcrumbList",
+						"itemListElement": [
+							{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+							{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+							{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/directives/","name": "Directives"}},
+							{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/crawl-indexation/directives/robots-txt/","name": "Robots.txt"}}
+						]
+					}
+				}
+			},
+			"/crawl-indexation/directives/robots-tags/": {
+				"path": "/crawl-indexation/directives/robots-tags/", 
+				"vars": {
+					"title": "Robots Tags | TechnicalSEO.com",
+					"description": "Robots tags are directives that allow webmasters to control how search engines crawl and index the content of a website. They are page-level signals and can be implemented in a meta tag or in an HTTP response header.",
+					"canonical": "https://technicalseo.com/crawl-indexation/directives/robots-tags/",
+					"robots": "index,follow",
+					"templateUrl": "crawl-indexation/directives/robots-tags/robots-tags.php",
+					"amphtml": "https://technicalseo.com/crawl-indexation/directives/robots-tags/amp.html",
+					"breadcrumbs": {
+						"@context": "http://schema.org",
+						"@type": "BreadcrumbList",
+						"itemListElement": [
+							{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+							{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+							{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/directives/","name": "Directives"}},
+							{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/crawl-indexation/directives/robots-tags/","name": "Robots Tags"}}
+						]
+					}
+				}
+			},
+		"/crawl-indexation/annotations/": {
+			"path": "/crawl-indexation/annotations/", 
+			"vars": {
+				"title": "Annotations | TechnicalSEO.com",
+				"description": "Annotations are signals that can be sent to search engines for them to better understand the structure of a website and how it relates to other pages or files across the internet.",
+				"canonical": "https://technicalseo.com/crawl-indexation/annotations/",
+				"robots": "index,follow",
+				"templateUrl": "crawl-indexation/annotations/annotations.php",
+				"amphtml": "https://technicalseo.com/crawl-indexation/annotations/amp.html",
+				"breadcrumbs": {
+					"@context": "http://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+						{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+						{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/annotations/","name": "Annotations"}}
+					]
+				}
+			}
+		},
+			"/crawl-indexation/annotations/link-element-rel-attribute/": {
+				"path": "/crawl-indexation/annotations/link-element-rel-attribute/", 
+				"vars": {
+					"title": "Link Element rel Attribute | TechnicalSEO.com",
+					"description": "The rel attribute of a HTML &lt;link&gt; element establishes a relationship between two URLs. It can be used to specifying the authoritative version of a page, indicating an alternate version for a different device, language or region, consolidating equity for a paginated series, etc.",
+					"canonical": "https://technicalseo.com/crawl-indexation/annotations/link-element-rel-attribute/",
+					"robots": "index,follow",
+					"templateUrl": "crawl-indexation/annotations/link-element-rel-attribute/link-element-rel-attribute.php",
+					"amphtml": "https://technicalseo.com/crawl-indexation/annotations/link-element-rel-attribute/amp.html",
+					"breadcrumbs": {
+						"@context": "http://schema.org",
+						"@type": "BreadcrumbList",
+						"itemListElement": [
+							{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+							{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+							{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/annotations/","name": "Annotations"}},
+							{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/crawl-indexation/annotations/link-element-rel-attribute/","name": "Link Element rel Attribute"}}
+						]
+					}
+				}
+			},	
+				"/crawl-indexation/annotations/link-element-rel-attribute/canonical/": {
+					"path": "/crawl-indexation/annotations/link-element-rel-attribute/canonical/", 
+					"vars": {
+						"title": "Link Element: rel='canonical' | TechnicalSEO.com",
+						"description": "Canonical tags are used to help search engines understand which URL has authority over others. This increases the likelihood of important pages being crawled, indexed, and ranked.",
+						"canonical": "https://technicalseo.com/crawl-indexation/annotations/link-element-rel-attribute/canonical/",
+						"robots": "index,follow",
+						"templateUrl": "crawl-indexation/annotations/link-element-rel-attribute/canonical/canonical.php",
+						"amphtml": "https://technicalseo.com/crawl-indexation/annotations/link-element-rel-attribute/canonical/amp.html",
+						"breadcrumbs": {
+							"@context": "http://schema.org",
+							"@type": "BreadcrumbList",
+							"itemListElement": [
+								{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+								{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+								{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/annotations/","name": "Annotations"}},
+								{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/crawl-indexation/annotations/link-element-rel-attribute/","name": "Link Element rel Attribute"}},
+								{"@type": "ListItem","position": 5,"item": {"@id": "https://technicalseo.com/crawl-indexation/annotations/link-element-rel-attribute/canonical/","name": "rel=\"canonical\""}}
+							]
+						}
+					}
+				},
+				"/crawl-indexation/annotations/link-element-rel-attribute/prev-next/": {
+					"path": "/crawl-indexation/annotations/link-element-rel-attribute/prev-next/", 
+					"vars": {
+						"title": "Link Element: rel='prev-next' | TechnicalSEO.com",
+						"description": "In instances of paginated series, rel=prev and rel=next tags should be used in order to consolidate equity of individual pages into one URL and resolve eventual near-duplication.",
+						"canonical": "https://technicalseo.com/crawl-indexation/annotations/link-element-rel-attribute/prev-next/",
+						"robots": "index,follow",
+						"templateUrl": "crawl-indexation/annotations/link-element-rel-attribute/prev-next/prev-next.php",
+						"amphtml": "https://technicalseo.com/crawl-indexation/annotations/link-element-rel-attribute/prev-next/amp.html",
+						"breadcrumbs": {
+							"@context": "http://schema.org",
+							"@type": "BreadcrumbList",
+							"itemListElement": [
+								{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+								{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+								{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/annotations/","name": "Annotations"}},
+								{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/crawl-indexation/annotations/link-element-rel-attribute/","name": "Link Element rel Attribute"}},
+								{"@type": "ListItem","position": 5,"item": {"@id": "https://technicalseo.com/crawl-indexation/annotations/link-element-rel-attribute/prev-next/","name": "rel=\"prev-next\""}}
+							]
+						}
+					}
+				},
+				"/crawl-indexation/annotations/link-element-rel-attribute/alternate-media/": {
+					"path": "/crawl-indexation/annotations/link-element-rel-attribute/alternate-media/", 
+					"vars": {
+						"title": "Link Element: rel='alternate' media='x' | TechnicalSEO.com",
+						"description": "rel=alternate media=x tags are &lt;link&gt; elements used to inform search engines about an alternate URL specifically designed for other media or devices.",
+						"canonical": "https://technicalseo.com/crawl-indexation/annotations/link-element-rel-attribute/alternate-media/",
+						"robots": "index,follow",
+						"templateUrl": "crawl-indexation/annotations/link-element-rel-attribute/alternate-media/alternate-media.php",
+						"amphtml": "https://technicalseo.com/crawl-indexation/annotations/link-element-rel-attribute/alternate-media/amp.html",
+						"breadcrumbs": {
+							"@context": "http://schema.org",
+							"@type": "BreadcrumbList",
+							"itemListElement": [
+								{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+								{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+								{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/annotations/","name": "Annotations"}},
+								{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/crawl-indexation/annotations/link-element-rel-attribute/","name": "Link Element rel Attribute"}},
+								{"@type": "ListItem","position": 5,"item": {"@id": "https://technicalseo.com/crawl-indexation/annotations/link-element-rel-attribute/alternate-media/","name": "rel=\"alternate\" media=\"x\""}}
+							]
+						}
+					}
+				},
+				"/crawl-indexation/annotations/link-element-rel-attribute/alternate-hreflang/": {
+					"path": "/crawl-indexation/annotations/link-element-rel-attribute/alternate-hreflang/", 
+					"vars": {
+						"title": "Link Element: rel='alternate' hreflang='x' | TechnicalSEO.com",
+						"description": "hreflang tags help indicate Google and Yandex in what language the content of a page is written and what audience (region) this content is targeting.",
+						"canonical": "https://technicalseo.com/crawl-indexation/annotations/link-element-rel-attribute/alternate-hreflang/",
+						"robots": "index,follow",
+						"templateUrl": "crawl-indexation/annotations/link-element-rel-attribute/alternate-hreflang/alternate-hreflang.php",
+						"amphtml": "https://technicalseo.com/crawl-indexation/annotations/link-element-rel-attribute/alternate-hreflang/amp.html",
+						"breadcrumbs": {
+							"@context": "http://schema.org",
+							"@type": "BreadcrumbList",
+							"itemListElement": [
+								{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+								{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+								{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/annotations/","name": "Annotations"}},
+								{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/crawl-indexation/annotations/link-element-rel-attribute/","name": "Link Element rel Attribute"}},
+								{"@type": "ListItem","position": 5,"item": {"@id": "https://technicalseo.com/crawl-indexation/annotations/link-element-rel-attribute/alternate-hreflang/","name": "rel=\"alternate\" hreflang=\"x\""}}
+							]
+						}
+					}
+				},
+			"/crawl-indexation/annotations/rel-nofollow/": {
+				"path": "/crawl-indexation/annotations/rel-nofollow/", 
+				"vars": {
+					"title": "rel='nofollow' | TechnicalSEO.com",
+					"description": "rel=nofollow tags are used to prevent the flow of equity across certain links. It can help prioritize how bots crawl a site and should be use to separate paid links from the organic search landscape.",
+					"canonical": "https://technicalseo.com/crawl-indexation/annotations/rel-nofollow/",
+					"robots": "index,follow",
+					"templateUrl": "crawl-indexation/annotations/rel-nofollow/rel-nofollow.php",
+					"amphtml": "https://technicalseo.com/crawl-indexation/annotations/rel-nofollow/amp.html",
+					"breadcrumbs": {
+						"@context": "http://schema.org",
+						"@type": "BreadcrumbList",
+						"itemListElement": [
+							{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+							{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+							{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/annotations/","name": "Annotations"}},
+							{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/crawl-indexation/annotations/rel-nofollow/","name": "rel=\"nofollow\""}}
+						]
+					}
+				}
+			},	
+			"/crawl-indexation/annotations/xml-sitemap-rss-feed/": {
+				"path": "/crawl-indexation/annotations/xml-sitemap-rss-feed/", 
+				"vars": {
+					"title": "XML Sitemaps and RSS Feeds | TechnicalSEO.com",
+					"description": "",
+					"canonical": "https://technicalseo.com/crawl-indexation/annotations/xml-sitemap-rss-feed/",
+					"robots": "noindex,nofollow",
+					"templateUrl": "crawl-indexation/annotations/xml-sitemap-rss-feed/xml-sitemap-rss-feed.php",
+					"amphtml": "https://technicalseo.com/crawl-indexation/annotations/xml-sitemap-rss-feed/amp.html",
+					"breadcrumbs": {
+						"@context": "http://schema.org",
+						"@type": "BreadcrumbList",
+						"itemListElement": [
+							{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+							{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+							{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/annotations/","name": "Annotations"}},
+							{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/crawl-indexation/annotations/xml-sitemap-rss-feed/","name": "XML Sitemaps and RSS Feeds"}}
+						]
+					}
+				}
+			},
+			"/crawl-indexation/annotations/content-language-tags/": {
+				"path": "/crawl-indexation/annotations/content-language-tags/", 
+				"vars": {
+					"title": "Content Language Tags | TechnicalSEO.com",
+					"description": "Certain search engines, such as Bing, do not support the rel='alternate' hreflang='x' annotations. There are three methods that can be used to help these search engines determine which language is being targeted.",
+					"canonical": "https://technicalseo.com/crawl-indexation/annotations/content-language-tags/",
+					"robots": "index,follow",
+					"templateUrl": "crawl-indexation/annotations/content-language-tags/content-language-tags.php",
+					"amphtml": "https://technicalseo.com/crawl-indexation/annotations/content-language-tags/amp.html",
+					"breadcrumbs": {
+						"@context": "http://schema.org",
+						"@type": "BreadcrumbList",
+						"itemListElement": [
+							{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+							{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+							{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/annotations/","name": "Annotations"}},
+							{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/crawl-indexation/annotations/content-language-tags/","name": "Content Language Tags"}}
+						]
+					}
+				}
+			},	
+		"/crawl-indexation/website-configuration/": {
+			"path": "/crawl-indexation/website-configuration/", 
+			"vars": {
+				"title": "Website Configuration | TechnicalSEO.com",
+				"description": "The website's configuration, while under the responsibility of the web developer(s), has major effects on SEO. URL structure, mobile solution implementation, AJAX but also site latency greatly influence how search engines will rank the site's pages in the SERPs.",
+				"canonical": "https://technicalseo.com/crawl-indexation/website-configuration/",
+				"robots": "index,follow",
+				"templateUrl": "crawl-indexation/website-configuration/website-configuration.php",
+				"amphtml": "https://technicalseo.com/crawl-indexation/website-configuration/amp.html",
+				"breadcrumbs": {
+					"@context": "http://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+						{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+						{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/website-configuration/","name": "Website Configuration"}}
+					]
+				}
+			}
+		},
+			"/crawl-indexation/website-configuration/urls/": {
+				"path": "/crawl-indexation/website-configuration/urls/", 
+				"vars": {
+					"title": "URLs | TechnicalSEO.com",
+					"description": "URLs are a relatively minimal factor in terms of SEO, but there are a few things that are important to consider in order to create SEO friendly URLs.",
+					"canonical": "https://technicalseo.com/crawl-indexation/website-configuration/urls/",
+					"robots": "index,follow",
+					"templateUrl": "crawl-indexation/website-configuration/urls/urls.php",
+					"amphtml": "https://technicalseo.com/crawl-indexation/website-configuration/urls/amp.html",
+					"breadcrumbs": {
+						"@context": "http://schema.org",
+						"@type": "BreadcrumbList",
+						"itemListElement": [
+							{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+							{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+							{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/website-configuration/","name": "Website Configuration"}},
+							{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/crawl-indexation/website-configuration/urls/","name": "URLs"}}
+						]
+					}
+				}
+			},
+			"/crawl-indexation/website-configuration/mobile-site/": {
+				"path": "/crawl-indexation/website-configuration/mobile-site/", 
+				"vars": {
+					"title": "Mobile Site | TechnicalSEO.com",
+					"description": "",
+					"canonical": "https://technicalseo.com/crawl-indexation/website-configuration/mobile-site/",
+					"robots": "noindex,nofollow",
+					"templateUrl": "crawl-indexation/website-configuration/mobile-site/mobile-site.php",
+					"amphtml": "https://technicalseo.com/crawl-indexation/website-configuration/mobile-site/amp.html",
+					"breadcrumbs": {
+						"@context": "http://schema.org",
+						"@type": "BreadcrumbList",
+						"itemListElement": [
+							{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+							{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+							{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/website-configuration/","name": "Website Configuration"}},
+							{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/crawl-indexation/website-configuration/mobile-site/","name": "Mobile Site"}}
+						]
+					}
+				}
+			},	
+				"/crawl-indexation/website-configuration/mobile-site/responsive-web-design/": {
+					"path": "/crawl-indexation/website-configuration/mobile-site/responsive-web-design/", 
+					"vars": {
+						"title": "Mobile Site: Responsive Web Design | TechnicalSEO.com",
+						"description": "",
+						"canonical": "https://technicalseo.com/crawl-indexation/website-configuration/mobile-site/responsive-web-design/",
+						"robots": "noindex,nofollow",
+						"templateUrl": "crawl-indexation/website-configuration/mobile-site/responsive-web-design/responsive-web-design.php",
+						"amphtml": "https://technicalseo.com/crawl-indexation/website-configuration/mobile-site/responsive-web-design/amp.html",
+						"breadcrumbs": {
+							"@context": "http://schema.org",
+							"@type": "BreadcrumbList",
+							"itemListElement": [
+								{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+								{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+								{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/website-configuration/","name": "Website Configuration"}},
+								{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/crawl-indexation/website-configuration/mobile-site/","name": "Mobile Site"}},
+								{"@type": "ListItem","position": 5,"item": {"@id": "https://technicalseo.com/crawl-indexation/website-configuration/mobile-site/responsive-web-design/","name": "RWD"}}
+							]
+						}
+					}
+				},	
+				"/crawl-indexation/website-configuration/mobile-site/dynamic-serving/": {
+					"path": "/crawl-indexation/website-configuration/mobile-site/dynamic-serving/", 
+					"vars": {
+						"title": "Mobile Site: Dynamic Serving | TechnicalSEO.com",
+						"description": "",
+						"canonical": "https://technicalseo.com/crawl-indexation/website-configuration/mobile-site/dynamic-serving/",
+						"robots": "noindex,nofollow",
+						"templateUrl": "crawl-indexation/website-configuration/mobile-site/dynamic-serving/dynamic-serving.php",
+						"amphtml": "https://technicalseo.com/crawl-indexation/website-configuration/mobile-site/dynamic-serving/amp.html",
+						"breadcrumbs": {
+							"@context": "http://schema.org",
+							"@type": "BreadcrumbList",
+							"itemListElement": [
+								{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+								{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+								{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/website-configuration/","name": "Website Configuration"}},
+								{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/crawl-indexation/website-configuration/mobile-site/","name": "Mobile Site"}},
+								{"@type": "ListItem","position": 5,"item": {"@id": "https://technicalseo.com/crawl-indexation/website-configuration/mobile-site/dynamic-serving/","name": "Dynamic Serving"}}
+							]
+						}
+					}
+				},	
+				"/crawl-indexation/website-configuration/mobile-site/separate-urls/": {
+					"path": "/crawl-indexation/website-configuration/mobile-site/separate-urls/", 
+					"vars": {
+						"title": "Mobile Site: Separate URLs | TechnicalSEO.com",
+						"description": "",
+						"canonical": "https://technicalseo.com/crawl-indexation/website-configuration/mobile-site/separate-urls/",
+						"robots": "noindex,nofollow",
+						"templateUrl": "crawl-indexation/website-configuration/mobile-site/separate-urls/separate-urls.php",
+						"amphtml": "https://technicalseo.com/crawl-indexation/website-configuration/mobile-site/separate-urls/amp.html",
+						"breadcrumbs": {
+							"@context": "http://schema.org",
+							"@type": "BreadcrumbList",
+							"itemListElement": [
+								{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+								{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+								{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/website-configuration/","name": "Website Configuration"}},
+								{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/crawl-indexation/website-configuration/mobile-site/","name": "Mobile Site"}},
+								{"@type": "ListItem","position": 5,"item": {"@id": "https://technicalseo.com/crawl-indexation/website-configuration/mobile-site/separate-urls/","name": "Separate URLs"}}
+							]
+						}
+					}
+				},
+		"/crawl-indexation/internal-linking/": {
+			"path": "/crawl-indexation/internal-linking/", 
+			"vars": {
+				"title": "Internal Linking | TechnicalSEO.com",
+				"description": "",
+				"canonical": "https://technicalseo.com/crawl-indexation/internal-linking/",
+				"robots": "noindex,nofollow",
+				"templateUrl": "crawl-indexation/internal-linking/internal-linking.php",
+				"amphtml": "https://technicalseo.com/crawl-indexation/internal-linking/amp.html",
+				"breadcrumbs": {
+					"@context": "http://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+						{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+						{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/internal-linking/","name": "Internal Linking"}}
+					]
+				}
+			}
+		},
+			"/crawl-indexation/internal-linking/breadcrumb-links/": {
+				"path": "/crawl-indexation/internal-linking/breadcrumb-links/", 
+				"vars": {
+					"title": "Breadcrumb Links | TechnicalSEO.com",
+					"description": "",
+					"canonical": "https://technicalseo.com/crawl-indexation/internal-linking/breadcrumb-links/",
+					"robots": "noindex,nofollow",
+					"templateUrl": "crawl-indexation/internal-linking/breadcrumb-links/breadcrumb-links.php",
+					"amphtml": "https://technicalseo.com/crawl-indexation/internal-linking/breadcrumb-links/amp.html",
+					"breadcrumbs": {
+						"@context": "http://schema.org",
+						"@type": "BreadcrumbList",
+						"itemListElement": [
+							{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+							{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+							{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/internal-linking/","name": "Internal Linking"}},
+							{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/crawl-indexation/internal-linking/breadcrumb-links/","name": "Breadcrumb Links"}}
+						]
+					}
+				}
+			},	
+			"/crawl-indexation/internal-linking/html-sitemap/": {
+				"path": "/crawl-indexation/internal-linking/html-sitemap/", 
+				"vars": {
+					"title": "HTML Sitemap | TechnicalSEO.com",
+					"description": "",
+					"canonical": "https://technicalseo.com/crawl-indexation/internal-linking/html-sitemap/",
+					"robots": "noindex,nofollow",
+					"templateUrl": "crawl-indexation/internal-linking/html-sitemap/html-sitemap.php",
+					"amphtml": "https://technicalseo.com/crawl-indexation/internal-linking/html-sitemap/amp.html",
+					"breadcrumbs": {
+						"@context": "http://schema.org",
+						"@type": "BreadcrumbList",
+						"itemListElement": [
+							{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+							{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+							{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/internal-linking/","name": "Internal Linking"}},
+							{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/crawl-indexation/internal-linking/html-sitemap/","name": "HTML Sitemap"}}
+						]
+					}
+				}
+			},		
+		"/crawl-indexation/structured-data/": {
+			"path": "/crawl-indexation/structured-data/", 
+			"vars": {
+				"title": "Structured Data | TechnicalSEO.com",
+				"description": "",
+				"canonical": "https://technicalseo.com/crawl-indexation/structured-data/",
+				"robots": "noindex,nofollow",
+				"templateUrl": "crawl-indexation/structured-data/structured-data.php",
+				"amphtml": "https://technicalseo.com/crawl-indexation/structured-data/amp.html",
+				"breadcrumbs": {
+					"@context": "http://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+						{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/crawl-indexation/","name": "Crawl & Indexation"}},
+						{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/crawl-indexation/structured-data/","name": "Structured Data"}}
+					]
+				}
+			}
+		},			
+	"/rank-serp/": {
+		"path": "/rank-serp/", 
+		"vars": {
+			"title": "Rank & SERP | TechnicalSEO.com",
+			"description": "",
+			"canonical": "https://technicalseo.com/rank-serp/",
+			"robots": "index,follow",
+			"templateUrl": "rank-serp/rank-serp.php",
+			"amphtml": "https://technicalseo.com/rank-serp/amp.html",
+			"breadcrumbs": {
+				"@context": "http://schema.org",
+				"@type": "BreadcrumbList",
+				"itemListElement": [
+					{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+					{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/rank-serp/","name": "Rank & SERP"}}
+				]
+			}
+		}
+	},
+		"/rank-serp/page-elements/": {
+			"path": "/rank-serp/page-elements/", 
+			"vars": {
+				"title": "Page Elements | TechnicalSEO.com",
+				"description": "The optimization of page elements such as page title, meta description, heading tags or images is critical when it comes to search engine optimization.",
+				"canonical": "https://technicalseo.com/rank-serp/page-elements/",
+				"robots": "index,follow",
+				"templateUrl": "rank-serp/page-elements/page-elements.php",
+				"amphtml": "https://technicalseo.com/rank-serp/page-elements/amp.html",
+				"breadcrumbs": {
+					"@context": "http://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+						{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/rank-serp/","name": "Rank & SERP"}},
+						{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/rank-serp/page-elements/","name": "Page Elements"}}
+					]
+				}
+			}
+		},
+			"/rank-serp/page-elements/page-title/": {
+				"path": "/rank-serp/page-elements/page-title/", 
+				"vars": {
+					"title": "Web Page Titles & HTML Title Tags | TechnicalSEO.com",
+					"description": "Page titles are a strong ranking factor for web pages in the SERPs. Find out how to use HTML title tags and create an SEO friendly page title.",
+					"canonical": "https://technicalseo.com/rank-serp/page-elements/page-title/",
+					"robots": "index,follow",
+					"templateUrl": "rank-serp/page-elements/page-title/page-title.php",
+					"amphtml": "https://technicalseo.com/rank-serp/page-elements/page-title/amp.html",
+					"breadcrumbs": {
+						"@context": "http://schema.org",
+						"@type": "BreadcrumbList",
+						"itemListElement": [
+							{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+							{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/rank-serp/","name": "Rank & SERP"}},
+							{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/rank-serp/page-elements/","name": "Page Elements"}},
+							{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/rank-serp/page-elements/page-title/","name": "Page Title"}}
+						]
+					}
+				}
+			},
+			"/rank-serp/page-elements/meta-description/": {
+				"path": "/rank-serp/page-elements/meta-description/", 
+				"vars": {
+					"title": "Meta Description | TechnicalSEO.com",
+					"description": "",
+					"canonical": "https://technicalseo.com/rank-serp/page-elements/meta-description/",
+					"robots": "noindex,nofollow",
+					"templateUrl": "rank-serp/page-elements/meta-description/meta-description.php",
+					"amphtml": "https://technicalseo.com/rank-serp/page-elements/meta-description/amp.html",
+					"breadcrumbs": {
+						"@context": "http://schema.org",
+						"@type": "BreadcrumbList",
+						"itemListElement": [
+							{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+							{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/rank-serp/","name": "Rank & SERP"}},
+							{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/rank-serp/page-elements/","name": "Page Elements"}},
+							{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/rank-serp/page-elements/meta-description/","name": "Meta Description"}}
+						]
+					}
+				}
+			},			
+			"/rank-serp/page-elements/heading-tags/": {
+				"path": "/rank-serp/page-elements/heading-tags/", 
+				"vars": {
+					"title": "Heading Tags | TechnicalSEO.com",
+					"description": "",
+					"canonical": "https://technicalseo.com/rank-serp/page-elements/heading-tags/",
+					"robots": "noindex,nofollow",
+					"templateUrl": "rank-serp/page-elements/heading-tags/heading-tags.php",
+					"amphtml": "https://technicalseo.com/rank-serp/page-elements/heading-tags/amp.html",
+					"breadcrumbs": {
+						"@context": "http://schema.org",
+						"@type": "BreadcrumbList",
+						"itemListElement": [
+							{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+							{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/rank-serp/","name": "Rank & SERP"}},
+							{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/rank-serp/page-elements/","name": "Page Elements"}},
+							{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/rank-serp/page-elements/heading-tags/","name": "Heading Tags"}}
+						]
+					}
+				}
+			},			
+			"/rank-serp/page-elements/images/": {
+				"path": "/rank-serp/page-elements/images/", 
+				"vars": {
+					"title": "Images | TechnicalSEO.com",
+					"description": "",
+					"canonical": "https://technicalseo.com/rank-serp/page-elements/images/",
+					"robots": "noindex,nofollow",
+					"templateUrl": "rank-serp/page-elements/images/images.php",
+					"amphtml": "https://technicalseo.com/rank-serp/page-elements/images/amp.html",
+					"breadcrumbs": {
+						"@context": "http://schema.org",
+						"@type": "BreadcrumbList",
+						"itemListElement": [
+							{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+							{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/rank-serp/","name": "Rank & SERP"}},
+							{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/rank-serp/page-elements/","name": "Page Elements"}},
+							{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/rank-serp/page-elements/images/","name": "Images"}}
+						]
+					}
+				}
+			},	
+		"/rank-serp/rich-snippets/": {
+			"path": "/rank-serp/rich-snippets/", 
+			"vars": {
+				"title": "Rich Snippets | TechnicalSEO.com",
+				"description": "",
+				"canonical": "https://technicalseo.com/rank-serp/rich-snippets/",
+				"robots": "noindex,nofollow",
+				"templateUrl": "rank-serp/rich-snippets/rich-snippets.php",
+				"amphtml": "https://technicalseo.com/rank-serp/rich-snippets/amp.html",
+				"breadcrumbs": {
+					"@context": "http://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+						{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/rank-serp/","name": "Rank & SERP"}},
+						{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/rank-serp/rich-snippets/","name": "Rich Snippets"}}
+					]
+				}
+			}
+		},	
+		"/rank-serp/sitelinks/": {
+			"path": "/rank-serp/sitelinks/", 
+			"vars": {
+				"title": "Sitelinks | TechnicalSEO.com",
+				"description": "",
+				"canonical": "https://technicalseo.com/rank-serp/sitelinks/",
+				"robots": "noindex,nofollow",
+				"templateUrl": "rank-serp/sitelinks/sitelinks.php",
+				"amphtml": "https://technicalseo.com/rank-serp/sitelinks/amp.html",
+				"breadcrumbs": {
+					"@context": "http://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+						{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/rank-serp/","name": "Rank & SERP"}},
+						{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/rank-serp/sitelinks/","name": "Sitelinks"}}
+					]
+				}
+			}
+		},
+			"/rank-serp/sitelinks/search-box/": {
+				"path": "/rank-serp/sitelinks/search-box/", 
+				"vars": {
+					"title": "Sitelinks Search Box | TechnicalSEO.com",
+					"description": "",
+					"canonical": "https://technicalseo.com/rank-serp/sitelinks/search-box/",
+					"robots": "noindex,nofollow",
+					"templateUrl": "rank-serp/sitelinks/search-box/search-box.php",
+					"amphtml": "https://technicalseo.com/rank-serp/sitelinks/search-box/amp.html",
+					"breadcrumbs": {
+						"@context": "http://schema.org",
+						"@type": "BreadcrumbList",
+						"itemListElement": [
+							{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+							{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/rank-serp/","name": "Rank & SERP"}},
+							{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/rank-serp/sitelinks/","name": "Sitelinks"}},
+							{"@type": "ListItem","position": 4,"item": {"@id": "https://technicalseo.com/rank-serp/sitelinks/search-box/","name": "Search Box"}}
+						]
+					}
+				}
+			},		
+		"/rank-serp/knowledge-graph/": {
+			"path": "/rank-serp/knowledge-graph/", 
+			"vars": {
+				"title": "Knowledge Graph | TechnicalSEO.com",
+				"description": "The Knowledge Graph is a body of data displayed in Google's result pages and sourced from a variety of trusted sources on the internet: Wikipedia, Wikidata, The CIA World Factbook, etc.",
+				"canonical": "https://technicalseo.com/rank-serp/knowledge-graph/",
+				"robots": "index,follow",
+				"templateUrl": "rank-serp/knowledge-graph/knowledge-graph.php",
+				"amphtml": "https://technicalseo.com/rank-serp/knowledge-graph/amp.html",
+				"breadcrumbs": {
+					"@context": "http://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+						{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/rank-serp/","name": "Rank & SERP"}},
+						{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/rank-serp/knowledge-graph/","name": "Knowledge Graph"}}
+					]
+				}
+			}
+		},		
+		"/rank-serp/duplicate-content/": {
+			"path": "/rank-serp/duplicate-content/", 
+			"vars": {
+				"title": "Duplicate Content | TechnicalSEO.com",
+				"description": "Duplicate content refers to identical (or nearly identical) content that appears on websites under more than one URL and present major SEO issues.",
+				"canonical": "https://technicalseo.com/rank-serp/duplicate-content/",
+				"robots": "index,follow",
+				"templateUrl": "rank-serp/duplicate-content/duplicate-content.php",
+				"amphtml": "https://technicalseo.com/rank-serp/duplicate-content/amp.html",
+				"breadcrumbs": {
+					"@context": "http://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+						{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/rank-serp/","name": "Rank & SERP"}},
+						{"@type": "ListItem","position": 3,"item": {"@id": "https://technicalseo.com/rank-serp/duplicate-content/","name": "Duplicate Content"}}
+					]
+				}
+			}
+		},		
+	"/topics/": {
+		"path": "/topics/", 
+		"vars": {
+			"title": "Topics | TechnicalSEO.com",
+			"description": "A/B Testing and SEO, Inventory Management, Website Migration, Local Search, International SEO, etc.",
+			"canonical": "https://technicalseo.com/topics/",
+			"robots": "noindex,nofollow",
+			"templateUrl": "topics/topics.php",
+			"amphtml": "https://technicalseo.com/topics/amp.html",
+			"breadcrumbs": {
+				"@context": "http://schema.org",
+				"@type": "BreadcrumbList",
+				"itemListElement": [
+					{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}},
+					{"@type": "ListItem","position": 2,"item": {"@id": "https://technicalseo.com/topics/","name": "Topics"}}
+				]
+			}
+		}
+	},
+	"path": {
+		"path": "path", 
+		"vars": {
+			"title": "title",
+			"description": "description",
+			"canonical": "canonical",
+			"robots": "noindex,nofollow",
+			"templateUrl": "templateUrl",
+			"amphtml": "amphtml",
+			"breadcrumbs": {
+				"@context": "http://schema.org",
+				"@type": "BreadcrumbList",
+				"itemListElement": [
+					{"@type": "ListItem","position": 1,"item": {"@id": "https://technicalseo.com/","name": "TechnicalSEO.com"}}
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,29 @@
+        .productlist {
+            margin-top: 15px;
+        }
+        
+        .product {
+            min-height: 310px;
+            position: relative;
+        }
+        
+        .product .productname {
+            font-size: 1em;
+        }
+        
+        .decor {
+            padding: 1px 10px;
+            text-align: center;
+            text-transform: uppercase;
+            background: #900;
+            color: #fff;
+            font-weight: 700;
+            font-size: 10px;
+            position: absolute;
+            top: 0;
+            right: 0;
+        }
+        
+        .searchfilters {
+            margin-top: 15px;
+        }
